@@ -1,0 +1,10 @@
+cradle:
+  stack:
+    - path: "./src"
+      component: "working-with-lists:lib"
+
+    - path: "./app/Main.hs"
+      component: "working-with-lists:exe:working-with-lists-exe"
+
+    - path: "./test"
+      component: "working-with-lists:test:working-with-lists-test"

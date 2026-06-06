@@ -25,9 +25,12 @@ source-repository head
 
 library
   exposed-modules:
+      BuildingCalculator
       InfiniteFind
       Lib
+      ParserExample
       Transforming
+      TypeHoleDemo
   other-modules:
       Paths_working_with_lists
   autogen-modules:
